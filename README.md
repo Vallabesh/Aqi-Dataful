@@ -1,6 +1,3 @@
-I am pleased to share my submission for Resume Project Challenge 16, organized by Codebasics.
-
-
 # 🧾 About the Project : "AirPure Innovations" is a startup born out of the air quality crisis in India, with 14 cities ranking among the world’s top 20 most polluted urban centers. Before investing in manufacturing and R&D, AirPure Innovations needed to know if their product vision matched real market needs.
 They wanted clear, data-backed answers to:
 -- Which pollutants must the purifier be designed to tackle?
