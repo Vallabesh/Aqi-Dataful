@@ -34,16 +34,22 @@ I would like to thank Dhaval Patel , Hemanand Vadivel, Dataful and Codebasics fo
 ## 📽️ Presentation Video : https://shorturl.at/Gd1ys
 ## 📑 Dashboard Link : https://shorturl.at/nbQ00
 
+## Homepage
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide1.JPG)
 
+## AQI Overview & Trends
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide2.JPG)
 
+## State -City-Level Air Quality Drilldown
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide3.JPG)
 
+## Health & Demographic Impact
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide4.JPG)
 
+## Market Opportunity & Consumer Behavior
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide5.JPG)
 
+## Policy & Product Strategy Dashboard
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide6.JPG)
 
 ![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide7.JPG)
