@@ -33,3 +33,24 @@ It was a rewarding experience to combine data analysis + market research to infl
 I would like to thank Dhaval Patel , Hemanand Vadivel, Dataful and Codebasics for providing me with this oppurtunity
 ## 📽️ Presentation Video : https://shorturl.at/Gd1ys
 ## 📑 Dashboard Link : https://shorturl.at/nbQ00
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide1.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide2.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide3.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide4.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide5.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide6.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide7.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide8.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide9.JPG)
+
+![image-name](https://github.com/Vallabesh/Aqi-Dataful/blob/efaa6c4a3775f7403fc5e12725b907e72010a026/Slide10.JPG)
+
